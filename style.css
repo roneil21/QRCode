@@ -1,0 +1,36 @@
+.card{
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+    width: 30%;
+    padding: 20px;
+    box-shadow: hsl(0, 0%, 0%);
+    border-radius: 20px;
+    
+}
+h6{
+    width:auto  ;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    font-weight:400;
+    color:hsl(213, 4%, 46%);
+}
+footer{
+    margin-top: 15%;
+}
+html{
+    background-color: hsl(212, 45%, 89%);
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+img{
+    border-radius: 10%;
+}
+
